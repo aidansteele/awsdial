@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/aws/aws-sdk-go-v2 v1.16.16
 	github.com/aws/aws-sdk-go-v2/service/ssm v1.30.0
-	github.com/mmmorris1975/ssm-session-client v0.0.0-20221011070450-0c5b84161a19
+	github.com/mmmorris1975/ssm-session-client v0.204.0
 )
 
 require (
@@ -17,4 +17,3 @@ require (
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 )
 
-replace github.com/mmmorris1975/ssm-session-client => github.com/aidansteele/ssm-session-client v0.0.0-20221011070450-0c5b84161a19
