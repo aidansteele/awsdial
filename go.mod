@@ -17,3 +17,4 @@ require (
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 )
 
+replace github.com/mmmorris1975/ssm-session-client => github.com/aidansteele/ssm-session-client v0.0.0-20221014002521-e2f645594da8
